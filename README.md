@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -20,7 +21,8 @@
 
 <h1> Links to my favorite websites</h1>
 <p> http://twitter.com</p>
-
+<p>www.forever21.com</p>
+<p>www.coolmath-games.com</p>
 
 </body>
 </html>
