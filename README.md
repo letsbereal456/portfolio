@@ -24,8 +24,5 @@
 <p>www.forever21.com</p>
 <p>www.coolmath-games.com</p>
 
-<img
-src="namegenerator.jpg"
-style="width:504px;height:440px;">
 </body>
 </html>
